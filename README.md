@@ -11,6 +11,7 @@
 **전공** : 기계공학과 (소프트웨어및컴퓨터공학 복수전공)
 
 **기술 스택**
+
 Web Full-Stack(을 지향합니다..) - Django, React, Vue
 
 임베디드 개발 - EC2 보드, Arduino
